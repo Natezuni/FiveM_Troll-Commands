@@ -2,11 +2,11 @@ fx_version 'cerulean'
 game 'gta5'
 
 client_scripts {
-    'Client/*.lua'
+    'Client/sc_*.lua'
 }
 
 server_scripts {
-    'Server/*.lua'
+    'Server/sv_*.lua'
 }
 
 
